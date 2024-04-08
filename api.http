@@ -31,4 +31,4 @@ GET http://localhost:3333/attendees/1/check-in
 
 ###
 
-GET http://localhost:3333/events/a029f5c4-83ff-4f36-ad48-a66a60921d5f/attendees
+GET http://localhost:3333/events/a029f5c4-83ff-4f36-ad48-a66a60921d5f/attendees?query=victor
